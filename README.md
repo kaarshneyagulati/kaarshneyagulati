@@ -30,7 +30,7 @@ Once they’re ready, I’ll add:
 
 ---
 
-## 🎓 Learning & Courses
+## Learning & Courses
 
 I’m starting to explore online courses in:
 
@@ -42,7 +42,7 @@ I’ll only list specific **certificates here after I actually complete them**.
 
 ---
 
-## 📫 Contact  
+## Contact  
 
 - **Email:** `kaarshneyagulati@gmail.com`  
 - **GitHub:** [github.com/kaarshneyagulati](https://github.com/kaarshneyagulati)
